@@ -1,7 +1,7 @@
 ---
 title: Setting up
 date: 2025-05-24
-tags: [ "docs", "technical", "wop" ]
+tags: [ "docs", "technical" ]
 ---
 
 # Introduction
@@ -40,7 +40,10 @@ was setting the minimum `node.js` version to be at least `20` and the build comm
 In terms of the DNS management, this took a while to configure, and was one of the reasons I kept switching hosting
 services. I originally used Vercel, and purchased the domain name through them (a third party registrar I
 presume), however, the first change (Vercel -> Netlify) was warranted because of ethical concerns, which made me
-*want* to change the registrar specifically. So I decided to use `Krystal.io` as my registrar, which I found to be
+*want* to change the registrar specifically (although I changed the hosting service as well). So I decided to use
+`Krystal.io`
+as my registrar,
+which I found to be
 quite nice and easy to set up. In order to transfer the domain name, I had to get the `EPP` code (also known as the
 `Auth-Code`) from Vercel. After propagation, the transfer was complete. The issue with using this registrar, though, was
 that I was trying to use this as my DNS manager as well, where I create records and manage them, but even after
@@ -90,6 +93,4 @@ whois example.com
 ## Summary
 
 This was a very fun thing to do, as I was able to use the knowledge I had from the Advanced Networking module to
-configure the DNS records for my website. 
-
-> “You don't learn to walk by following rules. You learn by doing, and by falling over”. — Richard Branson
+configure the DNS records for my website.
