@@ -9,7 +9,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a6c7c5dd-de3a-41db-b5d1-56b24f5db77a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Technical/setting-up.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Technical/setting-up.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Non-Technical/moon.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Non-Technical/moon.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Uni/advanced-networking.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Uni/advanced-networking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/zaine/Documents/projects/garden-web-port/content/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +52,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/assets" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748173460565</updated>
       <workItem from="1748173461876" duration="3854000" />
-      <workItem from="1748178625906" duration="620000" />
+      <workItem from="1748178625906" duration="9460000" />
     </task>
     <servers />
   </component>

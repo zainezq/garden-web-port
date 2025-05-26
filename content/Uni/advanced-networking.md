@@ -1,9 +1,9 @@
 ---
 title: Advanced Networking
-tags: ["uni", "technical", "wop"]
+tags: ["uni", "technical"]
 ---
 
-# Advanced Networking Introduction
+# Advanced Networking
 
 This module was taught in the first semester of my final year at university. There were a wide range of topics that were covered, and best efforts were made in not talking about the security aspects of networks, although it is the case that when we talk about networks we are talking about secure networks (who even needs insecure networks?).
 
