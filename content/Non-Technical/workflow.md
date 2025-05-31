@@ -1,12 +1,12 @@
 ---
 title: Current Workflow
 date: 2025-05-31
-tags: ["docs"]
+tags: ["docs", "non-technical"]
 ---
 
 Some information relating to the current workflow (we'll see how long this lasts).
 
-- Book notes → Notion
+- Book notes → SiYuan (Notion alternative)
 - To dos (managed via org capture and shown in org agenda) → Emacs + Org
 - Calendar (using org capture and shows on org agenda) → Emacs + Org
 - DG (digital garden - currently using quartz and is public) → Emacs + Quartz
