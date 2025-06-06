@@ -25,6 +25,7 @@ Current tags are:
 | uni          | These are notes that are related to university modules, subjects and/or topics |
 | productivity | These are notes that are related productivity                                  |
 | books        | These are notes and summaries on books                                         |
+| programming  | These are notes related to programming                                         |
 | wip          | Stands for 'work in progress'                                                  |
 
 Enjoy your stay!
