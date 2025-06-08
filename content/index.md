@@ -18,14 +18,17 @@ Nodes have been assorted into the following folders, each containing relevant ta
 
 Current tags are:
 
-| Tags         | Description                                                                    |
-|--------------|--------------------------------------------------------------------------------|
-| docs         | Contains information regarding the documentation of a project or experiment    |
-| technical    | These are notes that are related to technical topics                           |
-| uni          | These are notes that are related to university modules, subjects and/or topics |
-| productivity | These are notes that are related productivity                                  |
-| books        | These are notes and summaries on books                                         |
-| programming  | These are notes related to programming                                         |
-| wip          | Stands for 'work in progress'                                                  |
+| Tags          | Description                                                                    |
+|---------------|--------------------------------------------------------------------------------|
+| docs          | Contains information regarding the documentation of a project or experiment    |
+| technical     | These are notes that are related to technical topics                           |
+| non-technical | These are notes that are related to non-technical topics                       |
+| definition    | Contains definitions of words and/or concepts                                  |
+| uni           | These are notes that are related to university modules, subjects and/or topics |
+| productivity  | These are notes that are related productivity                                  |
+| books         | These are notes and summaries on books                                         |
+| programming   | These are notes related to programming                                         |
+| python        | These are notes related to Python                                              |
+| wip           | Stands for 'work in progress'                                                  |
 
 Enjoy your stay!

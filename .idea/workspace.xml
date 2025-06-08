@@ -9,7 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a6c7c5dd-de3a-41db-b5d1-56b24f5db77a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Non-Technical/workflow.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Non-Technical/workflow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Technical/Coding/Python/python.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Technical/Coding/Python/python-index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,9 @@
       <workItem from="1748178625906" duration="10159000" />
       <workItem from="1748736645939" duration="844000" />
       <workItem from="1749243628022" duration="286000" />
-      <workItem from="1749247906355" duration="1176000" />
+      <workItem from="1749247906355" duration="1821000" />
+      <workItem from="1749335913022" duration="493000" />
+      <workItem from="1749389351873" duration="1784000" />
     </task>
     <servers />
   </component>
