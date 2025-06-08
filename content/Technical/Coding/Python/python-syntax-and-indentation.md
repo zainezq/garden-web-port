@@ -1,12 +1,13 @@
 ---
 title: Python Syntax & Indentation
 date: 2025-06-08
-tags: [ "technical", "programming", "python", "wip" ]
+tags: [ "technical", "programming", "python" ]
 ---
 
 # Syntax
 
-The [[syntax.md | syntax]] of Python is similar to those of other programming languages, below is a summary and a quick reference.
+The [[syntax.md | syntax]] of Python is similar to those of other programming languages, below is a summary and a quick
+reference.
 
 ## Comments
 
@@ -26,7 +27,8 @@ This is a multi-line comment
 
 ## Indentation
 
-Python uses indentation to indicate block structure. Indentation is used to indicate that a block of code is part of a larger block of code.
+Python uses indentation to indicate block structure. Indentation is used to indicate that a block of code is part of a
+larger block of code.
 
 ```python
 if condition:
@@ -34,12 +36,13 @@ if condition:
     print("Hello world!")
 ```
 
-In other languages, indentation is used to make the code look more readable. In Python, indentation is used to 
+In other languages, indentation is used to make the code look more readable. In Python, indentation is used to
 indicate the block structure of the code, hence why it is important.
 
 ## Arithmetic
 
-The following below are the primary [[arithmetic.md | arithmetic]] operators, which can be applied to literal numbers, variables, or 
+The following below are the primary [[arithmetic.md | arithmetic]] operators, which can be applied to literal numbers,
+variables, or
 some combinations:
 
 - `+` for addition
@@ -170,36 +173,38 @@ for i in range(5):
 
 Python has the following reserved words:
 
-- `and`
-- `as`
-- `assert`
-- `break`
-- `class`
-- `continue`
-- `def`
-- `del`
-- `elif`
-- `else`
-- `except`
-- `finally`
-- `for`
-- `from`
-- `global`
-- `if`
-- `import`
-- `in`
-- `is`
-- `lambda`
-- `nonlocal`
-- `not`
-- `or`
-- `pass`
-- `raise`
-- `return`
-- `try`
-- `while`
-- `with`
-- `yield`
+| Reserved Word | Description         | Example                                       |
+|---------------|---------------------|-----------------------------------------------|
+| `and`         | Logical and         | `x > 0 and x < 10`                            |
+| `as`          | Assign              | `import math as m`                            |
+| `assert`      | Assert              | `assert x > 0, "x is negative"`               |
+| `break`       | Break               | `for x in range(10): if x == 5: break`        |
+| `class`       | Class definition    | `class Person: pass`                          |
+| `continue`    | Continue            | `for x in range(10): if x % 2 == 0: continue` |
+| `def`         | Function definition | `def add(x, y): return x + y`                 |
+| `del`         | Delete              | `del x`                                       |
+| `elif`        | Else if             | `if x > 0: ... elif x < 0: ...`               |
+| `else`        | Else                | `if x > 0: ... else: ...`                     |
+| `except`      | Exception handling  | `try: ... except: ...`                        |
+| `finally`     | Finally             | `try: ... finally: ...`                       |
+| `for`         | For loop            | `for x in range(10): ...`                     |
+| `from`        | Import from         | `from math import *`                          |
+| `global`      | Global variable     | `x = 5; global x`                             |
+| `if`          | If                  | `if x > 0: ...`                               |
+| `import`      | Import              | `import math`                                 |
+| `in`          | In                  | `x in [1, 2, 3]`                              |
+| `is`          | Is                  | `x is y`                                      |
+| `lambda`      | Lambda function     | `f = lambda x, y: x + y`                      |
+| `nonlocal`    | Nonlocal variable   |                                               |
+| `not`         | Not                 | `not x`                                       |
+| `or`          | Logical or          | `x > 0 or x < 10`                             |
+| `pass`        | Pass                | `if x > 0: pass`                              |
+| `raise`       | Raise exception     | `raise ValueError("x is negative")`           |
+| `return`      | Return              | `def add(x, y): return x + y`                 |
+| `try`         | Try                 | `try: ... except: ...`                        |
+| `while`       | While loop          | `while x > 0: ...`                            |
+| `with`        | With                | `with open("file.txt") as f: ...`             |
+| `yield`       | Yield               |                                               |
 
 ## Functions
 
@@ -277,6 +282,7 @@ print ('argument list', sys.argv)
 name = sys.argv[1]
 print ("Hello {}. How are you?".format(name))
 ```
+
 This example is taken from [this](https://www.tutorialspoint.com/python/python_command_line_arguments.htm) link.
 
 The output of the above code will be:

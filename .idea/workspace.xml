@@ -9,8 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a6c7c5dd-de3a-41db-b5d1-56b24f5db77a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Technical/Coding/Python/python.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Technical/Coding/Python/python-index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Technical/Coding/Python/python-index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Technical/Coding/Python/python-index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Technical/Coding/Python/python-syntax-and-indentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Technical/Coding/Python/python-syntax-and-indentation.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <workItem from="1749243628022" duration="286000" />
       <workItem from="1749247906355" duration="1821000" />
       <workItem from="1749335913022" duration="493000" />
-      <workItem from="1749389351873" duration="1784000" />
+      <workItem from="1749389351873" duration="2600000" />
     </task>
     <servers />
   </component>

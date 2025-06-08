@@ -9,10 +9,15 @@ tags: [ "technical", "programming", "wip" ]
 These are notes related to Python, a programming language that wasn't formally taught at University, but something
 I've always wanted to learn. Thus, I wanted to compile a (hopefully) comprehensive plethora of notes on the language.
 
+## Table of Contents
+
+* [Python syntax & indentation](python-syntax-and-indentation.md)
+* [Variables & dynamic typing](python-variables-and-dynamic-typing.md)
+
 # TODO
 
-* [ ] Python syntax & indentation
-* [ ] Variables & dynamic typing
+* [x] Python syntax & indentation
+* [x] Variables & dynamic typing
 * [ ] Data types: int, float, str, bool, list, tuple, dict, set
 * [ ] Control structures: if, for, while, range()
 * [ ] Functions: def, return, \*args, \*\*kwargs
