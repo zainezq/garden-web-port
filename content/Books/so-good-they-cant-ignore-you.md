@@ -51,3 +51,21 @@ passion", and details alternative strategies.
        and ensure that you pour all your effort into the capital you seek. The final sentence given in the book before
        the summary is: **You stretch yourself, day after day, month after month, before finally looking up and
        realising, "Hey, I've become pretty good, and people are starting to notice".**
+
+### Rule #3: Turn Down a Promotion (Or, the importance of control)
+
+1. The author here explains that once you've acquired a certain amount of career capital, your next step is to invest 
+in those traits that define great work. Discussion was made about control, and the common pitfalls that people fall 
+into.
+2. The law of financial viability: when pursuing a project or career path, it's crucial to seek evidence that people 
+   are willing to pay for it. If that evidence exists, it's a good sign to proceed; if not, it's better to reconsider or pivot.
+
+### Rule #4: Think Small, Act Big (Or, the importance of Mission)
+
+1. This rule focuses on the importance of having a mission in your work. Having a unifying focus for your career, a 
+   sense of purpose, can make your work more meaningful and impactful.
+2. A good career mission is similar to a scientific breakthrough, discovered in the adjacent possible of your field. 
+   You will need to acquire enough career capital to be able to get into the *cutting edge* of your field. Once you 
+   get into this cutting edge, you can then start to see these missions.
+3. Think small, act big. Instead of focusing on a huge experiment with little feedback, focus on small experiments 
+   that yield concrete feedback, and use this to guide you into the direction surrounding your general mission.

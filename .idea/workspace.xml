@@ -9,6 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a6c7c5dd-de3a-41db-b5d1-56b24f5db77a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Books/so-good-they-cant-ignore-you.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Books/so-good-they-cant-ignore-you.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +84,9 @@
       <workItem from="1749335913022" duration="493000" />
       <workItem from="1749389351873" duration="3024000" />
       <workItem from="1749403933447" duration="1443000" />
+      <workItem from="1749508247449" duration="213000" />
+      <workItem from="1749912740356" duration="224000" />
+      <workItem from="1750020478167" duration="2275000" />
     </task>
     <servers />
   </component>
