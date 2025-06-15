@@ -4,8 +4,8 @@ date: 2025-06-01
 tags: [ "books", "non-technical", "wip" ]
 ---
 
-Some of these points have been inspired from the
-website: [https://jasonkwanhc.medium.com/book-summary-of-so-good-they-cant-ignore-you-58cb236fef0d](https://jasonkwanhc.medium.com/book-summary-of-so-good-they-cant-ignore-you-58cb236fef0d)
+Some of these points have been inspired from this
+[website](https://jasonkwanhc.medium.com/book-summary-of-so-good-they-cant-ignore-you-58cb236fef0d).
 
 # Summary
 
