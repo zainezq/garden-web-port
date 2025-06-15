@@ -1,7 +1,7 @@
 ---
 title: So Good They Can't Ignore You
 date: 2025-06-01
-tags: [ "books", "non-technical", "wip" ]
+tags: [ "books", "non-technical" ]
 ---
 
 Some of these points have been inspired from this
