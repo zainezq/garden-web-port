@@ -13,6 +13,7 @@ I've always wanted to learn. Thus, I wanted to compile a (hopefully) comprehensi
 
 * [Python syntax & indentation](python-syntax-and-indentation.md)
 * [Variables & dynamic typing](python-variables-and-dynamic-typing.md)
+* [Data types](python-data-types.md)
 
 # TODO
 
