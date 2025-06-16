@@ -9,7 +9,25 @@
   <component name="ChangeListManager">
     <list default="true" id="a6c7c5dd-de3a-41db-b5d1-56b24f5db77a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Books/so-good-they-cant-ignore-you.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Books/so-good-they-cant-ignore-you.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Books/science-of-self-discipline.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/books/science-of-self-discipline.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Books/so-good-they-cant-ignore-you.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/books/so-good-they-cant-ignore-you.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Definitions/arithmetic.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/definitions/arithmetic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Definitions/career-capital.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/definitions/career-capital.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Definitions/deliberate-practice.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/definitions/deliberate-practice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Definitions/neuroplasticity.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/definitions/neuroplasticity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Definitions/syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/definitions/syntax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Non-Technical/moon.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Non-Technical/stanford-marshmallow.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/stanford-marshmallow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Non-Technical/urge-surfing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Non-Technical/workflow.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/workflow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Technical/Coding/Python/python-index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/technical/coding/python/python-index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Technical/Coding/Python/python-syntax-and-indentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/technical/coding/python/python-syntax-and-indentation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Technical/Coding/Python/python-variables-and-dynamic-typing.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/technical/coding/python/python-variables-and-dynamic-typing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Technical/setting-up.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/technical/setting-up.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Uni/advanced-networking.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/uni/advanced-networking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz.layout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.layout.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/components/PageTitle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/PageTitle.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,30 +49,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zaine/Documents/projects/garden-web-port/content/assets&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/zaine/Documents/projects/garden-web-port/node_modules/prettier&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/zaine/Documents/projects/garden-web-port/content/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/zaine/Documents/projects/garden-web-port/node_modules/prettier",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "ts.external.directory.path": "/Users/zaine/Documents/projects/garden-web-port/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/content/Technical/Coding/Python" />
       <recent name="$PROJECT_DIR$/content/Technical/Coding" />
       <recent name="$PROJECT_DIR$/content/Technical" />
@@ -86,7 +106,8 @@
       <workItem from="1749403933447" duration="1443000" />
       <workItem from="1749508247449" duration="213000" />
       <workItem from="1749912740356" duration="224000" />
-      <workItem from="1750020478167" duration="2872000" />
+      <workItem from="1750020478167" duration="3069000" />
+      <workItem from="1750075888873" duration="699000" />
     </task>
     <servers />
   </component>

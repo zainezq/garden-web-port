@@ -1,7 +1,7 @@
 ---
 title: Stanford Marshmallow Experiment
 date: 2025-05-25
-tags: [ "research"]
+tags: ["research"]
 ---
 
 The Stanford marshmallow experiment, conducted in the 1960s and 1970s by psychologist Walter Mischel, explored the
