@@ -9,12 +9,12 @@ You can view the technical [[setting-up.md | setup]] of this website here.
 
 Nodes have been assorted into the following folders, each containing relevant tags:
 
-- [Books](/Books)
-- [Definitions](/Definitions)
-- [Life](/Life)
-- [Non-Technical](/Non-Technical)
-- [Technical](/Technical)
-- [Uni](/Uni)
+- [Books](/books)
+- [Definitions](/definitions)
+- [Life](/life)
+- [Technical](/technical)
+- [Uni](/uni)
+- [Maths](/maths)
 
 Current tags are:
 
